@@ -1,5 +1,5 @@
 require 'abstract_unit'
-require 'active_support/core_ext/module/anonymous'
+require 'active_support/core_ext/module/is_null'
 
 class AnonymousTest < ActiveSupport::TestCase
   test "an anonymous class or module are anonymous" do

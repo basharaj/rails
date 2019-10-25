@@ -1,6 +1,6 @@
 require 'active_support/core_ext/module/aliasing'
 require 'active_support/core_ext/module/introspection'
-require 'active_support/core_ext/module/anonymous'
+require 'active_support/core_ext/module/is_null'
 require 'active_support/core_ext/module/reachable'
 require 'active_support/core_ext/module/attribute_accessors'
 require 'active_support/core_ext/module/attr_internal'
