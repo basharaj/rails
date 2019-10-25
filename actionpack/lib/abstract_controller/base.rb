@@ -2,7 +2,7 @@ require 'erubis'
 require 'set'
 require 'active_support/configurable'
 require 'active_support/descendants_tracker'
-require 'active_support/core_ext/module/anonymous'
+require 'active_support/core_ext/module/is_null'
 
 module AbstractController
   class Error < StandardError #:nodoc:

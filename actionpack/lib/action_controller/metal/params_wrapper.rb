@@ -1,6 +1,6 @@
 require 'active_support/core_ext/hash/slice'
 require 'active_support/core_ext/hash/except'
-require 'active_support/core_ext/module/anonymous'
+require 'active_support/core_ext/module/is_null'
 require 'active_support/core_ext/struct'
 require 'action_dispatch/http/mime_type'
 

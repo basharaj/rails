@@ -1,6 +1,6 @@
 require 'rack/session/abstract/id'
 require 'active_support/core_ext/object/to_query'
-require 'active_support/core_ext/module/anonymous'
+require 'active_support/core_ext/module/is_null'
 require 'active_support/core_ext/hash/keys'
 require 'active_support/deprecation'
 

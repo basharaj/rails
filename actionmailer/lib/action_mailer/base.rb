@@ -2,7 +2,7 @@ require 'mail'
 require 'action_mailer/collector'
 require 'active_support/core_ext/string/inflections'
 require 'active_support/core_ext/hash/except'
-require 'active_support/core_ext/module/anonymous'
+require 'active_support/core_ext/module/is_null'
 
 require 'action_mailer/log_subscriber'
 
